@@ -2,7 +2,7 @@
 
 This repo is a collection of blogs I've written. Topics covered include:
 
-# Django
+## Django
 - [ ] Django basic tutorial
 - [ ] Django custom user model
 - [ ] Django forms
@@ -10,4 +10,4 @@ This repo is a collection of blogs I've written. Topics covered include:
 - [ ] DRF
 - [ ] DRF serializer
 
-# Vue
+## Vue
