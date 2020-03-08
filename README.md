@@ -8,3 +8,6 @@ This repo is a collection of blogs I've written. Topics covered include:
 - [ ] Django signals
 
 ## Vue
+
+## Resources
+- [*] Useful frameworks for frontend development
